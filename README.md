@@ -1,1 +1,2 @@
-# JS-boilyP with linked stylesheet, scriptfile and img folder.
+# img gallery demo
+https://tsdmcode.github.io/modalgallerydemo/
